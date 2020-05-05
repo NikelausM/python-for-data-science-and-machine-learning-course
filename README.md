@@ -2,7 +2,7 @@
 
 ## Table of contents
 * [Introduction](#introduction)
-* [Technologies](#setup)
+* [Technologies](#technologies)
 
 ## Introduction
 This is a repository of my projects and exercise solutions for the Udemy course, [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
