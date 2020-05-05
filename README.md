@@ -28,7 +28,7 @@ The repo *.ipynb files (Jupyter Notebook) contain headers describing the code, f
 - Keras 2.3.1
 
 ## Tensorboard Visualization
-The tensorboard visualization for the "25-Neural-Nets-and-Deep-Learning" is only able to be shown by running tensorboard, so the following are some snapshots of Tensorboard when run for the [Keras project exercise model](./25-Neural-Nets-and-Deep-Learning/03-Keras-Project-Exercise.ipynb)
+The tensorboard visualization for the "25-Neural-Nets-and-Deep-Learning" is only able to be shown by running tensorboard, so the following are some snapshots of Tensorboard when run for the [Keras project exercise model](./25-Neural-Nets-and-Deep-Learning/03-Keras-Project-Exercise.ipynb).
 
 ### Loss and Validation Loss
 The following shows the loss and validation loss of the model over time.
