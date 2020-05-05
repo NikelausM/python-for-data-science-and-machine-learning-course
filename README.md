@@ -7,7 +7,7 @@
 * [Tensorboard Visualizations](#tensorboard-visualizations)
 
 ## Introduction
-This is a repository of my projects and exercise solutions for the Udemy course, [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
+This is a repository of my projects and exercise solutions for the Udemy course, [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/).
 
 The repo *.ipynb files (Jupyter Notebook) contain headers describing the code, followed by the code itself, and plots created. Since the Python code is written in Jupyter Notebooks, the plots created by the code are visible on Github itself without needing to run the code. This can be done by clicking on the *.ipynb file of an exercise or project on GitHub.
 
