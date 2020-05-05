@@ -13,7 +13,6 @@ The repo *.ipynb files (Jupyter Notebook) contain headers describing the code, f
 
 ## Certificate of Completion
 <p align="center"><img src="./Certificate_of_Completion.jpg"></p>
-As can be seen above, the loss and validation loss stabilized, then the model stopped training at close to 75 epochs.
 
 ## Technologies
 - Python 3.7.6
