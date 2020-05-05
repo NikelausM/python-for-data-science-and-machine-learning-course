@@ -12,7 +12,7 @@ This is a repository of my projects and exercise solutions for the Udemy course,
 The repo *.ipynb files (Jupyter Notebook) contain headers describing the code, followed by the code itself, and plots created. Since the Python code is written in Jupyter Notebooks, the plots created by the code are visible on Github itself without needing to run the code. This can be done by clicking on the *.ipynb file of an exercise or project on GitHub.
 
 ## Certificate of Completion
-<p align="center"><img src="./Certificate of Completion.jpg"></p>
+<p align="center"><img src="./Certificate_of_Completion.jpg.jpg"></p>
 As can be seen above, the loss and validation loss stabilized, then the model stopped training at close to 75 epochs.
 
 ## Technologies
