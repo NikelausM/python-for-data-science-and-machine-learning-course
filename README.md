@@ -1,1 +1,1 @@
-# python-for-data-science-and-machine-learning-course-exercises
+# python-for-data-science-and-machine-learning-course
