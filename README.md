@@ -1,4 +1,4 @@
-# Python for Data Science and Machine Learning course exercises and projects
+# Python for Data Science and Machine Learning Bootcamp exercises and projects
 
 ## Table of contents
 * [Introduction](#introduction)
