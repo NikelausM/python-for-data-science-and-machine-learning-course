@@ -19,17 +19,17 @@ The repo *.ipynb files (Jupyter Notebook) contain headers describing the code, f
 <p align="center"><img src="./images/Certificate_of_Completion.jpg"></p>
 
 ## Technologies
-- Python 3.7.6
-- NumPy 1.17.2
-- Pandas 1.0.3
-- Seaborn 0.9.0
-- Matplotlib 3.1.1
-- Plotly 4.6.0
-- Scikit-Learn 0.21.3
-- nltk 3.5
-- Tensorflow 2.1.0
-- Tensorboard 2.1.1
-- Keras 2.3.1
+- [Python version: 3.7.6](https://www.python.org)
+- [NumPy version: 1.17.2](https://numpy.org)
+- [Pandas version: 1.0.3](https://pandas.pydata.org)
+- [Seaborn version: 0.9.0](https://pypi.org/project/seaborn/)
+- [Matplotlib version: 3.1.1](https://matplotlib.org)
+- [Plotly version: 4.6.0](https://plotly.com/python/)
+- [Scikit-Learn version: 0.21.3](https://scikit-learn.org/stable/index.html)
+- [nltk version: 3.5](http://www.nltk.org)
+- [Tensorflow 2.1.0](https://www.tensorflow.org)
+- [Tensorboard 2.1.1](https://www.tensorflow.org)
+- [Keras 2.3.1](https://keras.io)
 
 ## Tensorboard Visualizations
 The tensorboard visualizations for the "25-Neural-Nets-and-Deep-Learning" are only able to be shown by running tensorboard, so the following are some snapshots of Tensorboard when run for the [Keras project exercise model](./25-Neural-Nets-and-Deep-Learning/03-Keras-Project-Exercise.ipynb).
