@@ -6,8 +6,8 @@
 
 ## Table of contents
 * [Introduction](#introduction)
-* [Technologies](#technologies)
 * [Certificate of Completion](#certificate-of-completion)
+* [Technologies](#technologies)
 * [Tensorboard Visualizations](#tensorboard-visualizations)
 
 ## Introduction
