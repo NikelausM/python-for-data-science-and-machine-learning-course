@@ -1,9 +1,5 @@
-<img src="./images/Python For Data Science Bootcamp.PNG" alt="Python For Data Science Bootcamp Logo." 
-style=" 
-display: block;
-margin-left: auto;
-margin-right: auto;
-">
+
+<p align="center"><img src="./images/Python For Data Science Bootcamp.PNG" alt="Python For Data Science Bootcamp Logo."><p>
   
 
 # Python for Data Science and Machine Learning Bootcamp exercises and projects
