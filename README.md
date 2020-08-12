@@ -1,3 +1,11 @@
+<img src="./images/Python For Data Science Bootcamp.PNG" alt="Python For Data Science Bootcamp Logo." 
+style=" 
+display: block;
+margin-left: auto;
+margin-right: auto;
+">
+  
+
 # Python for Data Science and Machine Learning Bootcamp exercises and projects
 
 ## Table of contents
@@ -12,7 +20,7 @@ This is a repository of my projects and exercise solutions for the Udemy course,
 The repo *.ipynb files (Jupyter Notebook) contain headers describing the code, followed by the code itself, and plots created. Since the Python code is written in Jupyter Notebooks, the plots created by the code are visible on Github itself without needing to run the code. This can be done by clicking on the *.ipynb file of an exercise or project on GitHub.
 
 ## Certificate of Completion
-<p align="center"><img src="./Certificate_of_Completion.jpg"></p>
+<p align="center"><img src="./images/Certificate_of_Completion.jpg"></p>
 
 ## Technologies
 - Python 3.7.6
